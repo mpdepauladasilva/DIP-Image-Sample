@@ -1,0 +1,11 @@
+# ============================================================
+#  requirements.txt — Notebooks de Regressão Linear & SVR
+#  Python 3.13 | Windows | venv | instalação offline
+# ============================================================
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
