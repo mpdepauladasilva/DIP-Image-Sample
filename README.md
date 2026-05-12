@@ -1,6 +1,8 @@
-# DIP-Image-Sample
+# Material de Aula
 
-Este repositório contém imagens de exemplo para introdução ao processamento de imagens no Matlab, bem como Jupyter Notebooks com foco em aprendizado de máquina e análise de dados (ex: `3_support_vector_machines_for_regression.ipynb`).
+Este repositório contém o material a ser usado nas aulas com os alunos da **UNIP Manaus - Turma de Análise e Desenvolvimento de Sistemas e Ciências da Computação**.
+
+O conteúdo abrange imagens de exemplo para introdução ao processamento de imagens no Matlab, bem como Jupyter Notebooks com foco em aprendizado de máquina e análise de dados (ex: `3_maquinas_de_vetores_de_suporte_para_regressao.ipynb`).
 
 ## Estrutura do Projeto
 * **Imagens de Exemplo:** Focadas no processamento prático de imagens em Matlab.
